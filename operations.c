@@ -22,3 +22,15 @@ int main()
     
     return 0;
 }
+
+/*
+input:
+Enter first number: 6
+Enter second number: 9
+
+output:
+Addition: 15.00
+Subtraction: -3.00
+Multiplication: 54.00
+Division: 0.67
+*/

@@ -13,3 +13,11 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Enter a number: 6
+
+output:
+6 is Even
+*/

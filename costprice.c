@@ -18,3 +18,12 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Enter total selling price of 15 items: 56
+Enter total profit earned: 30
+
+output:
+Cost Price of one item = 1.73
+*/

@@ -29,3 +29,14 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Enter age of Sachin: 34
+Enter age of Ramesh: 33
+Enter age of Rahul: 40
+
+output:
+Oldest: Rahul (40 years)
+Youngest: Ramesh (33 years)
+*/

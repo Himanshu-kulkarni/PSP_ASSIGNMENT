@@ -16,3 +16,13 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Enter first integer: 4
+Enter second integer: 5
+
+output:
+Enter first integer: 4
+Enter second integer: 5
+*/

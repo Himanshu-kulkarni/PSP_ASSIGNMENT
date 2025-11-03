@@ -64,3 +64,19 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Choose a shape to calculate area and perimeter:
+1. Triangle
+2. Rectangle
+3. Square
+4. Circle
+5. Hexagon
+Enter your choice (1-5): 3
+Enter side of square: 3
+
+output:
+Area = 9.00
+Perimeter = 12.00
+*/

@@ -16,3 +16,12 @@ int main() {
 
     return 0;
 }
+
+/*
+output:
+Enter the three angles of the triangle:
+60
+60
+60
+The triangle is valid.
+*/

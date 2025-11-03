@@ -18,3 +18,11 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Enter a number: 6
+
+output:
+Factorial of 6 is 720
+*/

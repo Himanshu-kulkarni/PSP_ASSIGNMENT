@@ -5,6 +5,7 @@ int main() {
     float totalmarks, percentage;
 
     // Input marks for 5 subjects
+    printf("ENTER MARKS OUT OF 100.\n");
     printf("Enter marks for subject 1: ");
     scanf("%f", &marks1);
     printf("Enter marks for subject 2: ");
@@ -28,3 +29,15 @@ int main() {
 
     return 0;
 }
+
+/*
+output:
+ENTER MARKS OUT OF 100.
+Enter marks for subject 1: 80
+Enter marks for subject 2: 90
+Enter marks for subject 3: 89
+Enter marks for subject 4: 98
+Enter marks for subject 5: 80
+Total Marks: 437.00
+Percentage: 87.40%
+*/

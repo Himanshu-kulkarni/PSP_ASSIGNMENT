@@ -22,3 +22,14 @@ int main() {
 
     return 0;
 }
+
+/*
+input:
+Enter the basic salary: 60
+
+output:
+Basic Salary: 60.00
+DA (50%): 30.00
+HRA (20%): 12.00
+Gross Salary: 102.00
+*/
